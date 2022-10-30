@@ -1,0 +1,12 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# series-interacting-paths
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+[Interacting
+paths](https://art.djnavarro.net/gallery/interacting-paths/) is an art
+repository by Danielle Navarro. The images in this repository are
+released under a [CC-BY-4.0](./LICENSE.md).
